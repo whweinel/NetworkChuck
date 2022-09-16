@@ -1,0 +1,9 @@
+dallas
+paris
+moscow
+london
+nyc
+seattle
+raleigh
+stanford
+wilmington
