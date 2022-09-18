@@ -1,12 +1,14 @@
 #! /bin/bash
 
-echo "Welcome tarnished. pls select starting class: 
+echo "Welcome tarnished. Please select starting class: 
 1 - Samurai
 2 - Prisoner
 3 - Prophet"
 
+#read input
 read class
 
+#use switch
 case $class in
 
 	1)
@@ -30,7 +32,7 @@ echo "You have chosen the $type class. You hp is $hp and you attack is $attack."
 
 echo "You Died"
 
-#first beat battle
+#first beast battle
 
 beast=$(( $RANDOM % 2))
 
@@ -53,6 +55,8 @@ echo "Boss battle! Scary. It's Margit, pick a number 0-9. (0-9)"
 read tarnished
 
 beast=$(( $RANDOM % 10 ))
+
+#the elif will need to be changed to your user or can remove this and simply use "coffee" to win
 
 if [[ $beast == $tarnished || $tarnished == "coffee" ]]; then
 	echo "beast vanquished"
