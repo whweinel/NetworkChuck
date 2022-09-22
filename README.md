@@ -8,12 +8,12 @@ Video 1<br>
 Programs used - himom.sh<br>
 Description: In this video he covered what Bash is, how to create Bash scripts, what nano is, what chmod is, and how to run bash two different ways.
 
-Progam himom.sh is a simple bash program that is used to echo out a few lines of code while using sleep to rest in between echo lines.  
+Program himom.sh is a simple bash program that is used to echo out a few lines of code while using sleep to rest in between echo lines.  
 <hr>
 Video 2<br>
 Programs used - bestdayever.sh<br>
 Description: In this video, Chuck covered what variables are in Bash, what arguments are, and how to make Bash read.
 <br><br>
-Progam bestdayever.sh will echo out multiple lines of input based one parameters you give it that are stored as variables. An example of way of running this is bash bestdayever.sh Will eyes. This will echo out "Will" and "eyes" as the variables. It also has stored the commands whoami, date, and pwd as variables and the last line will echo out those 3 things. 
+Program bestdayever.sh will echo out multiple lines of input based one parameters you give it that are stored as variables. An example of way of running this is bash bestdayever.sh Will eyes. This will echo out "Will" and "eyes" as the variables. It also has stored the commands whoami, date, and pwd as variables and the last line will echo out those 3 things. 
 
 
