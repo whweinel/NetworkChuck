@@ -15,5 +15,10 @@ Programs used - bestdayever.sh<br>
 Description: In this video, Chuck covered what variables are in Bash, what arguments are, and how to make Bash read.
 <br><br>
 Program bestdayever.sh will echo out multiple lines of input based one parameters you give it that are stored as variables. An example of way of running this is bash bestdayever.sh Will eyes. This will echo out "Will" and "eyes" as the variables. It also has stored the commands whoami, date, and pwd as variables and the last line will echo out those 3 things. 
-
+<hr>
+Video 3<br>
+Programs used - getrichquick.sh<br>
+Description: In this video, Chuck covered what the random variable is in Bash, various enviroment variables, how to create your own variable in the Bash shell (edit .bashrc and add export twitter="Elon Musk"), and doing math in Bash or arithmetic expressions including modulo. An example of math in Bash is "echo $(( 4 % 2 ))".
+<br><br>
+Program bestdayever.sh will determine when you will become a millionaire based on your name and age. Input your name and age when asked and it will randomize a value between 0 - 14 to add to your age to output when you will become a millionaire.
 
