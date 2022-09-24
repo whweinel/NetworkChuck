@@ -21,4 +21,10 @@ Programs used - getrichquick.sh<br>
 Description: In this video, Chuck covered what the random variable is in Bash, various enviroment variables, how to create your own variable in the Bash shell (edit .bashrc and add export twitter="Elon Musk"), and doing math in Bash or arithmetic expressions including modulo. An example of math in Bash is "echo $(( 4 % 2 ))".
 <br><br>
 Program bestdayever.sh will determine when you will become a millionaire based on your name and age. Input your name and age when asked and it will randomize a value between 0 - 14 to add to your age to output when you will become a millionaire.
+<hr>
+Video 4<br>
+Programs used - eldenring.sh<br>
+Description: In this video, Chuck covered Bash conditionals like the if statement, elifs, and case statements. He went over nested ifs and used the OR operator inside if statements as well. 
+<br><br>
+Program eldenring.sh will let you play Elden Ring in Bash! The program begins by letting you choose what class you'd like to be, after choosing a class you will go on to fight your first beast by picking a number 0 or 1. If you lose it will exit and you will have to start over but if you win you will go on to your final battle. The final battle is harder and you will have to choose a random number 0-9 to beat Margit. There is a cheat code though to help you win by typing coffee if you don't want to guess a number.
 
